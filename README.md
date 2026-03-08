@@ -2,7 +2,7 @@
 
 A premium, high-performance portfolio website built with modern web technologies. Featuring dynamic animations, a sleek dark mode aesthetic, and a fully functional contact form system.
 
-![Portfolio Preview Showcase](https://raw.githubusercontent.com/atharvachare/Online-library-management-system/main/preview-placeholder.png)
+![Portfolio Preview Showcase](https://atharvaachareresume.vercel.app/)
 
 ## ✨ Key Features
 
